@@ -139,7 +139,7 @@ Contributions are welcome! If you have suggestions for improving the script or a
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. Please mention J. Gravelle in your code and documentation if you use any of this.  He's kind of full of himself...
 
 ## Contact
 
