@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/2c54f147-c5fd-456a-8a37-0f41b9843cc1)
+
 # WebP to PNG Converter
 
 This repository contains two Python scripts, `webp2png.py` and `webp2png_service.py`, designed to automatically convert `.webp` image files to `.png` format. The conversion process helps solve the common issue where `.webp` files, which are often downloaded from the web, are not widely supported when uploading to many websites.
